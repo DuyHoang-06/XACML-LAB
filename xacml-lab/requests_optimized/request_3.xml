@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+  <Attributes Category="subject">
+
+    <Attribute AttributeId="role">
+      <AttributeValue>employee</AttributeValue>
+    </Attribute>
+  </Attributes>
+  <Attributes Category="resource">
+
+    <Attribute AttributeId="resource">
+      <AttributeValue>public</AttributeValue>
+    </Attribute>
+  </Attributes>
+  <Attributes Category="action">
+
+    <Attribute AttributeId="action">
+      <AttributeValue>read</AttributeValue>
+    </Attribute>
+  </Attributes>
+</Request>

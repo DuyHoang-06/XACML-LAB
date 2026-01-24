@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+  <Attributes Category="environment">
+
+    <Attribute AttributeId="working_hours">
+      <AttributeValue>false</AttributeValue>
+    </Attribute>
+  </Attributes>
+</Request>
